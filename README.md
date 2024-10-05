@@ -12,5 +12,5 @@ TTL-Zu-MBUS-Modul MBUS-Slave-Modul (TSS721A)
 ![Mbus-Konverter](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-Landis-Gyr-E450/blob/main/pics/mbus-konverter.jpg)
  
 Fertige Lösung mit 3D-gedrucktem Gehäuse:
-
+![Gehaeuse](https://github.com/c-e-github/Ausleser-fuer-Stromzaehler-Smartmeter-Landis-Gyr-E450/blob/main/pics/e450-Leser-gh.jpg)
 
